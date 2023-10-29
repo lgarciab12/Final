@@ -1,0 +1,61 @@
+VentaID;Cliente;Producto;TotalVenta;FechaVenta;MetodoPago;CantidadVendida
+1;Cliente 1;Camisa Hombre;49,99;2024-01-15;Efectivo;3
+2;Cliente 2;Vestido Mujer;59,99;2024-02-10;Tarjeta de Crédito;1
+3;Cliente 3;Pantalón Hombre;39,99;2024-03-20;Transferencia Bancaria;2
+4;Cliente 4;Blusa Mujer;29,99;2024-04-05;Efectivo;4
+5;Cliente 5;Zapatos Hombre;69,99;2024-05-18;Tarjeta de Débito;2
+6;Cliente 6;Falda Mujer;44,99;2024-06-14;Efectivo;2
+7;Cliente 7;Chaqueta Hombre;54,99;2024-07-30;Transferencia Bancaria;3
+8;Cliente 8;Vestido Mujer;59,99;2024-08-22;Efectivo;1
+9;Cliente 9;Pantalón Hombre;39,99;2024-09-19;Tarjeta de Crédito;2
+10;Cliente 10;Camisa Hombre;49,99;2024-10-02;Tarjeta de Crédito;1
+11;Cliente 11;Blusa Mujer;29,99;2024-11-07;Transferencia Bancaria;4
+12;Cliente 12;Zapatos Hombre;69,99;2024-11-25;Efectivo;1
+13;Cliente 13;Falda Mujer;44,99;2024-12-16;Tarjeta de Débito;3
+14;Cliente 14;Chaqueta Hombre;54,99;2024-12-12;Efectivo;2
+15;Cliente 15;Camisa Hombre;49,99;2024-12-01;Transferencia Bancaria;2
+16;Cliente 16;Pantalón Hombre;39,99;2024-12-05;Tarjeta de Crédito;3
+17;Cliente 17;Vestido Mujer;59,99;2024-12-11;Efectivo;1
+18;Cliente 18;Zapatos Hombre;69,99;2024-12-29;Efectivo;4
+19;Cliente 19;Blusa Mujer;29,99;2024-12-10;Tarjeta de Débito;2
+20;Cliente 20;Chaqueta Hombre;54,99;2024-12-20;Efectivo;3
+21;Cliente 21;Falda Mujer;44,99;2024-12-03;Transferencia Bancaria;1
+22;Cliente 22;Camisa Hombre;49,99;2024-12-28;Efectivo;2
+23;Cliente 23;Vestido Mujer;59,99;2024-12-17;Tarjeta de Crédito;1
+24;Cliente 24;Pantalón Hombre;39,99;2024-12-09;Tarjeta de Crédito;2
+25;Cliente 25;Blusa Mujer;29,99;2024-12-21;Efectivo;4
+26;Cliente 26;Zapatos Hombre;69,99;2024-12-13;Transferencia Bancaria;1
+27;Cliente 27;Falda Mujer;44,99;2024-12-22;Tarjeta de Débito;3
+28;Cliente 28;Chaqueta Hombre;54,99;2024-12-04;Efectivo;2
+29;Cliente 29;Camisa Hombre;49,99;2024-12-30;Transferencia Bancaria;3
+30;Cliente 30;Vestido Mujer;59,99;2024-12-19;Efectivo;1
+31;Cliente 31;Pantalón Hombre;39,99;2024-12-08;Tarjeta de Crédito;2
+32;Cliente 32;Abrigo de Lana;89,99;2024-12-11;Efectivo;3
+33;Cliente 33;Vestido de Fiesta;119,99;2024-12-08;Tarjeta de Crédito;2
+34;Cliente 34;Chaqueta de Cuero;74,99;2024-12-07;Efectivo;2
+35;Cliente 35;Zapatos Deportivos;54,99;2024-12-29;Tarjeta de Crédito;1
+36;Cliente 36;Camiseta de Algodón;29,99;2024-12-18;Transferencia Bancaria;3
+37;Cliente 37;Pantalón de Mezclilla;44,99;2024-12-22;Efectivo;1
+38;Cliente 38;Sombrero de Paja;19,99;2024-12-11;Efectivo;2
+39;Cliente 39;Bufanda de Lana;14,99;2024-12-06;Tarjeta de Débito;1
+40;Cliente 40;Vestido Casual;49,99;2024-12-27;Efectivo;4
+41;Cliente 41;Camisa Hombre;49,99;2024-12-21;Efectivo;3
+42;Cliente 42;Vestido Mujer;59,99;2024-12-20;Tarjeta de Crédito;1
+43;Cliente 43;Pantalón Hombre;39,99;2024-12-19;Transferencia Bancaria;2
+44;Cliente 44;Blusa Mujer;29,99;2024-12-18;Efectivo;4
+45;Cliente 45;Zapatos Hombre;69,99;2024-12-17;Tarjeta de Débito;2
+46;Cliente 46;Chaqueta Hombre;54,99;2024-12-16;Efectivo;2
+47;Cliente 47;Falda Mujer;44,99;2024-12-15;Transferencia Bancaria;3
+48;Cliente 48;Camisa Hombre;49,99;2024-12-14;Efectivo;1
+49;Cliente 49;Pantalón Hombre;39,99;2024-12-13;Tarjeta de Crédito;2
+50;Cliente 50;Vestido Mujer;59,99;2024-12-12;Tarjeta de Crédito;1
+51;Cliente 51;Camisa Hombre;49,99;2024-12-31;Efectivo;3
+52;Cliente 52;Pantalón Hombre;39,99;2024-12-30;Tarjeta de Crédito;1
+53;Cliente 53;Vestido Mujer;59,99;2024-12-29;Transferencia Bancaria;2
+54;Cliente 54;Blusa Mujer;29,99;2024-12-28;Efectivo;4
+55;Cliente 55;Zapatos Hombre;69,99;2024-12-27;Tarjeta de Débito;2
+56;Cliente 56;Chaqueta Hombre;54,99;2024-12-26;Efectivo;2
+57;Cliente 57;Falda Mujer;44,99;2024-12-25;Transferencia Bancaria;3
+58;Cliente 58;Camisa Hombre;49,99;2024-12-24;Efectivo;1
+59;Cliente 59;Pantalón Hombre;39,99;2024-12-23;Tarjeta de Crédito;2
+60;Cliente 60;Vestido Mujer;59,99;2024-12-22;Tarjeta de Crédito;1
