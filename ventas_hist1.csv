@@ -1,23 +1,23 @@
 VentaID;Cliente;Producto;TotalVenta;FechaVenta;MetodoPago;CantidadVendida
 1;Cliente 1;Camisa de vestir para caballero;59,99;2023-10-01;Efectivo;3
 2;Cliente 2;Vestido de noche para dama;79,99;2023-10-02;Efectivo;2
-3;Cliente 3;Traje de baÃ±o para dama;29,99;2023-10-03;Efectivo;5
+3;Cliente 3;Traje de baño para dama;29,99;2023-10-03;Efectivo;5
 4;Cliente 4;Pantalones de vestir para caballero;49,99;2023-10-04;Efectivo;4
 5;Cliente 5;Blusa de dama;39,99;2023-10-05;Efectivo;6
 6;Cliente 6;Sombrero de ala ancha para caballero;19,99;2023-10-06;Efectivo;1
 7;Cliente 7;Vestido de verano para dama;69,99;2023-10-07;Efectivo;3
 8;Cliente 8;Pantalones de mezclilla para dama;44,99;2023-10-08;Efectivo;2
 9;Cliente 9;Chaqueta de cuero para caballero;99,99;2023-10-09;Efectivo;1
-10;Cliente 10;Vestido de cÃ³ctel largo para dama;59,99;2023-10-10;Efectivo;2
+10;Cliente 10;Vestido de cóctel largo para dama;59,99;2023-10-10;Efectivo;2
 11;Cliente 11;Camiseta casual para caballero;29,99;2023-10-11;Efectivo;5
 12;Cliente 12;Falda plisada para dama;34,99;2023-10-12;Efectivo;4
 13;Cliente 13;Abrigo de invierno para caballero;79,99;2023-10-13;Efectivo;2
 14;Cliente 14;Corbata elegante para caballero;14,99;2023-10-14;Efectivo;7
 15;Cliente 15;Falda de dama;39,99;2023-10-15;Efectivo;3
 16;Cliente 16;Chaleco formal para caballero;34,99;2023-10-16;Efectivo;4
-17;Cliente 17;Traje de baÃ±o para dama;29,99;2023-10-17;Efectivo;6
+17;Cliente 17;Traje de baño para dama;29,99;2023-10-17;Efectivo;6
 18;Cliente 18;Zapatos de vestir para caballero;59,99;2023-10-18;Efectivo;2
-19;Cliente 19;Vestido de cÃ³ctel para dama;49,99;2023-10-19;Efectivo;3
+19;Cliente 19;Vestido de cóctel para dama;49,99;2023-10-19;Efectivo;3
 20;Cliente 20;Camiseta de deporte para caballero;24,99;2023-10-20;Efectivo;5
 21;Cliente 21;Blusa sin mangas para dama;24,99;2023-10-21;Efectivo;4
 22;Cliente 22;Abrigo de lana para caballero;69,99;2023-10-22;Efectivo;2
@@ -32,14 +32,14 @@ VentaID;Cliente;Producto;TotalVenta;FechaVenta;MetodoPago;CantidadVendida
 31;Cliente 31;Vestido de novia para dama;199,99;2023-10-31;Efectivo;1
 32;Cliente 32;Abrigo de lana para caballero;89,99;2023-11-01;Efectivo;2
 33;Cliente 33;Traje regional para caballero;79,99;2023-11-02;Efectivo;1
-34;Cliente 34;Vestido de cÃ³ctel largo para dama;69,99;2023-11-03;Efectivo;3
+34;Cliente 34;Vestido de cóctel largo para dama;69,99;2023-11-03;Efectivo;3
 35;Cliente 35;Camiseta casual para caballero;29,99;2023-11-04;Efectivo;4
 36;Cliente 36;Falda plisada para dama;34,99;2023-11-05;Efectivo;2
 37;Cliente 37;Abrigo de invierno para caballero;79,99;2023-11-06;Efectivo;1
 38;Cliente 38;Corbata elegante para caballero;14,99;2023-11-07;Efectivo;2
 39;Cliente 39;Falda de dama;39,99;2023-11-08;Efectivo;3
 40;Cliente 40;Chaleco formal para caballero;34,99;2023-11-09;Efectivo;2
-41;Cliente 41;Traje de baÃ±o para dama;29,99;2023-11-10;Efectivo;1
+41;Cliente 41;Traje de baño para dama;29,99;2023-11-10;Efectivo;1
 42;Cliente 42;Zapatos de vestir para caballero;59,99;2023-11-11;Efectivo;4
 43;Cliente 43;Blusa sin mangas para dama;24,99;2023-11-12;Efectivo;2
 44;Cliente 44;Abrigo de lana para caballero;89,99;2023-11-13;Efectivo;3
