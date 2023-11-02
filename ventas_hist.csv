@@ -1,0 +1,101 @@
+VentaID;Cliente;Producto;TotalVenta;FechaVenta;MetodoPago;CantidadVendida
+1;Cliente1;Camisa Azul;120,50;2025-01-15;Efectivo;2
+2;Cliente2;Vestido Rojo;75,25;2025-02-10;Efectivo;1
+3;Cliente3;Pantalones Negros;210,00;2025-03-22;Efectivo;3
+4;Cliente4;Chaqueta de Cuero;40,00;2025-04-05;Efectivo;1
+5;Cliente5;Zapatos Deportivos;150,75;2025-05-18;Efectivo;2
+6;Cliente6;Blusa Blanca;90,20;2025-06-30;Efectivo;1
+7;Cliente7;Pantalones Vaqueros;380,00;2025-07-11;Efectivo;4
+8;Cliente8;Sudadera Gris;55,60;2025-08-14;Efectivo;2
+9;Cliente9;Vestido de Noche;280,25;2025-09-25;Efectivo;3
+10;Cliente10;Zapatos Formales;96,90;2025-10-08;Efectivo;1
+11;Cliente11;Camisa Azul;130,50;2025-01-16;Efectivo;2
+12;Cliente12;Vestido Rojo;80,25;2025-02-11;Efectivo;1
+13;Cliente13;Pantalones Negros;220,00;2025-03-23;Efectivo;3
+14;Cliente14;Chaqueta de Cuero;45,00;2025-04-06;Efectivo;1
+15;Cliente15;Zapatos Deportivos;155,75;2025-05-19;Efectivo;2
+16;Cliente16;Blusa Blanca;95,20;2025-06-30;Efectivo;1
+17;Cliente17;Pantalones Vaqueros;385,00;2025-07-12;Efectivo;4
+18;Cliente18;Sudadera Gris;50,60;2025-08-15;Efectivo;2
+19;Cliente19;Vestido de Noche;290,25;2025-09-26;Efectivo;3
+20;Cliente20;Zapatos Formales;106,90;2025-10-09;Efectivo;1
+21;Cliente21;Camisa Azul;120,50;2025-11-01;Efectivo;2
+22;Cliente22;Vestido Rojo;75,25;2025-12-02;Efectivo;1
+23;Cliente23;Pantalones Negros;210,00;2025-01-03;Efectivo;3
+24;Cliente24;Chaqueta de Cuero;40,00;2025-02-04;Efectivo;1
+25;Cliente25;Zapatos Deportivos;150,75;2025-03-05;Efectivo;2
+26;Cliente26;Blusa Blanca;90,20;2025-04-06;Efectivo;1
+27;Cliente27;Pantalones Vaqueros;380,00;2025-05-07;Efectivo;4
+28;Cliente28;Sudadera Gris;55,60;2025-06-08;Efectivo;2
+29;Cliente29;Vestido de Noche;280,25;2025-07-09;Efectivo;3
+30;Cliente30;Zapatos Formales;96,90;2025-08-10;Efectivo;1
+31;Cliente31;Camisa Azul;120,50;2025-09-11;Efectivo;2
+32;Cliente32;Vestido Rojo;75,25;2025-10-12;Efectivo;1
+33;Cliente33;Pantalones Negros;210,00;2025-11-13;Efectivo;3
+34;Cliente34;Chaqueta de Cuero;40,00;2025-12-14;Efectivo;1
+35;Cliente35;Zapatos Deportivos;150,75;2025-01-15;Efectivo;2
+36;Cliente36;Blusa Blanca;90,20;2025-02-16;Efectivo;1
+37;Cliente37;Pantalones Vaqueros;380,00;2025-03-17;Efectivo;4
+38;Cliente38;Sudadera Gris;55,60;2025-04-18;Efectivo;2
+39;Cliente39;Vestido de Noche;280,25;2025-05-19;Efectivo;3
+40;Cliente40;Zapatos Formales;96,90;2025-06-20;Efectivo;1
+41;Cliente41;Camisa Azul;120,50;2025-07-21;Efectivo;2
+42;Cliente42;Vestido Rojo;75,25;2025-08-22;Efectivo;1
+43;Cliente43;Pantalones Negros;210,00;2025-09-23;Efectivo;3
+44;Cliente44;Chaqueta de Cuero;40,00;2025-10-24;Efectivo;1
+45;Cliente45;Zapatos Deportivos;150,75;2025-11-25;Efectivo;2
+46;Cliente46;Blusa Blanca;90,20;2025-12-26;Efectivo;1
+47;Cliente47;Pantalones Vaqueros;380,00;2025-01-27;Efectivo;4
+48;Cliente48;Sudadera Gris;55,60;2025-02-28;Efectivo;2
+49;Cliente49;Vestido de Noche;280,25;2025-03-29;Efectivo;3
+50;Cliente50;Zapatos Formales;96,90;2025-04-30;Efectivo;1
+51;Cliente51;Camisa Azul;120,50;2025-05-15;Efectivo;2
+52;Cliente52;Vestido Rojo;75,25;2025-06-10;Efectivo;1
+53;Cliente53;Pantalones Negros;210,00;2025-07-22;Efectivo;3
+54;Cliente54;Chaqueta de Cuero;40,00;2025-08-05;Efectivo;1
+55;Cliente55;Zapatos Deportivos;150,75;2025-09-18;Efectivo;2
+56;Cliente56;Blusa Blanca;90,20;2025-10-30;Efectivo;1
+57;Cliente57;Pantalones Vaqueros;380,00;2025-11-11;Efectivo;4
+58;Cliente58;Sudadera Gris;55,60;2025-12-14;Efectivo;2
+59;Cliente59;Vestido de Noche;280,25;2025-01-25;Efectivo;3
+60;Cliente60;Zapatos Formales;96,90;2025-02-08;Efectivo;1
+61;Cliente61;Camisa Azul;130,50;2025-05-16;Efectivo;2
+62;Cliente62;Vestido Rojo;80,25;2025-06-11;Efectivo;1
+63;Cliente63;Pantalones Negros;220,00;2025-07-23;Efectivo;3
+64;Cliente64;Chaqueta de Cuero;45,00;2025-08-06;Efectivo;1
+65;Cliente65;Zapatos Deportivos;155,75;2025-09-19;Efectivo;2
+66;Cliente66;Blusa Blanca;95,20;2025-10-31;Efectivo;1
+67;Cliente67;Pantalones Vaqueros;385,00;2025-11-12;Efectivo;4
+68;Cliente68;Sudadera Gris;50,60;2025-12-15;Efectivo;2
+69;Cliente69;Vestido de Noche;290,25;2025-01-26;Efectivo;3
+70;Cliente70;Zapatos Formales;106,90;2025-02-09;Efectivo;1
+71;Cliente71;Camisa Azul;120,50;2025-05-01;Efectivo;2
+72;Cliente72;Vestido Rojo;75,25;2025-06-02;Efectivo;1
+73;Cliente73;Pantalones Negros;210,00;2025-07-03;Efectivo;3
+74;Cliente74;Chaqueta de Cuero;40,00;2025-08-04;Efectivo;1
+75;Cliente75;Zapatos Deportivos;150,75;2025-09-05;Efectivo;2
+76;Cliente76;Blusa Blanca;90,20;2025-10-06;Efectivo;1
+77;Cliente77;Pantalones Vaqueros;380,00;2025-11-07;Efectivo;4
+78;Cliente78;Sudadera Gris;55,60;2025-12-08;Efectivo;2
+79;Cliente79;Vestido de Noche;280,25;2025-01-09;Efectivo;3
+80;Cliente80;Zapatos Formales;96,90;2025-02-10;Efectivo;1
+81;Cliente81;Camisa Azul;120,50;2025-05-11;Efectivo;2
+82;Cliente82;Vestido Rojo;75,25;2025-06-12;Efectivo;1
+83;Cliente83;Pantalones Negros;210,00;2025-07-23;Efectivo;3
+84;Cliente84;Chaqueta de Cuero;40,00;2025-08-14;Efectivo;1
+85;Cliente85;Zapatos Deportivos;150,75;2025-09-25;Efectivo;2
+86;Cliente86;Blusa Blanca;90,20;2025-10-16;Efectivo;1
+87;Cliente87;Pantalones Vaqueros;380,00;2025-11-27;Efectivo;4
+88;Cliente88;Sudadera Gris;55,60;2025-12-18;Efectivo;2
+89;Cliente89;Vestido de Noche;280,25;2025-01-29;Efectivo;3
+90;Cliente90;Zapatos Formales;96,90;2025-02-20;Efectivo;1
+91;Cliente91;Camisa Azul;120,50;2025-05-21;Efectivo;2
+92;Cliente92;Vestido Rojo;75,25;2025-06-22;Efectivo;1
+93;Cliente93;Pantalones Negros;210,00;2025-07-23;Efectivo;3
+94;Cliente94;Chaqueta de Cuero;40,00;2025-08-24;Efectivo;1
+95;Cliente95;Zapatos Deportivos;150,75;2025-09-25;Efectivo;2
+96;Cliente96;Blusa Blanca;90,20;2025-10-26;Efectivo;1
+97;Cliente97;Pantalones Vaqueros;380,00;2025-11-27;Efectivo;4
+98;Cliente98;Sudadera Gris;55,60;2025-12-28;Efectivo;2
+99;Cliente99;Vestido de Noche;280,25;2025-01-29;Efectivo;3
+100;Cliente100;Zapatos Formales;96,90;2025-02-20;Efectivo;1
