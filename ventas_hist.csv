@@ -1,0 +1,101 @@
+VentaID;Cliente;Producto;TotalVenta;FechaVenta;MetodoPago;CantidadVendida
+1;Cliente 1;Camisa de vestir para caballero;59,99;2023-10-01;Efectivo;3
+2;Cliente 2;Vestido de noche para dama;79,99;2023-10-02;Efectivo;2
+3;Cliente 3;Traje de bano para dama;29,99;2023-10-03;Efectivo;5
+4;Cliente 4;Pantalones de vestir para caballero;49,99;2023-10-04;Efectivo;4
+5;Cliente 5;Blusa de dama;39,99;2023-10-05;Efectivo;6
+6;Cliente 6;Sombrero de ala ancha para caballero;19,99;2023-10-06;Efectivo;1
+7;Cliente 7;Vestido de verano para dama;69,99;2023-10-07;Efectivo;3
+8;Cliente 8;Pantalones de mezclilla para dama;44,99;2023-10-08;Efectivo;2
+9;Cliente 9;Chaqueta de cuero para caballero;99,99;2023-10-09;Efectivo;1
+10;Cliente 10;Vestido de coctel largo para dama;59,99;2023-10-10;Efectivo;2
+11;Cliente 11;Camiseta casual para caballero;29,99;2023-10-11;Efectivo;5
+12;Cliente 12;Falda plisada para dama;34,99;2023-10-12;Efectivo;4
+13;Cliente 13;Abrigo de invierno para caballero;79,99;2023-10-13;Efectivo;2
+14;Cliente 14;Corbata elegante para caballero;14,99;2023-10-14;Efectivo;7
+15;Cliente 15;Falda de dama;39,99;2023-10-15;Efectivo;3
+16;Cliente 16;Chaleco formal para caballero;34,99;2023-10-16;Efectivo;4
+17;Cliente 17;Traje de bano para dama;29,99;2023-10-17;Efectivo;6
+18;Cliente 18;Zapatos de vestir para caballero;59,99;2023-10-18;Efectivo;2
+19;Cliente 19;Vestido de coctel para dama;49,99;2023-10-19;Efectivo;3
+20;Cliente 20;Camiseta de deporte para caballero;24,99;2023-10-20;Efectivo;5
+21;Cliente 21;Blusa sin mangas para dama;24,99;2023-10-21;Efectivo;4
+22;Cliente 22;Abrigo de lana para caballero;69,99;2023-10-22;Efectivo;2
+23;Cliente 23;Vestido de verano para dama;59,99;2023-10-23;Efectivo;3
+24;Cliente 24;Pantalones de mezclilla para dama;44,99;2023-10-24;Efectivo;2
+25;Cliente 25;Traje regional para caballero;79,99;2023-10-25;Efectivo;1
+26;Cliente 26;Vestido de fiesta para dama;64,99;2023-10-26;Efectivo;2
+27;Cliente 27;Blusa de seda para dama;54,99;2023-10-27;Efectivo;3
+28;Cliente 28;Chaqueta deportiva para caballero;49,99;2023-10-28;Efectivo;4
+29;Cliente 29;Pantalones de yoga para dama;29,99;2023-10-29;Efectivo;5
+30;Cliente 30;Ropa de dormir para caballero;29,99;2023-10-30;Efectivo;2
+31;Cliente 31;Vestido de novia para dama;199,99;2023-10-31;Efectivo;1
+32;Cliente 32;Abrigo de lana para caballero;89,99;2023-11-01;Efectivo;2
+33;Cliente 33;Traje regional para caballero;79,99;2023-11-02;Efectivo;1
+34;Cliente 34;Vestido de coctel largo para dama;69,99;2023-11-03;Efectivo;3
+35;Cliente 35;Camiseta casual para caballero;29,99;2023-11-04;Efectivo;4
+36;Cliente 36;Falda plisada para dama;34,99;2023-11-05;Efectivo;2
+37;Cliente 37;Abrigo de invierno para caballero;79,99;2023-11-06;Efectivo;1
+38;Cliente 38;Corbata elegante para caballero;14,99;2023-11-07;Efectivo;2
+39;Cliente 39;Falda de dama;39,99;2023-11-08;Efectivo;3
+40;Cliente 40;Chaleco formal para caballero;34,99;2023-11-09;Efectivo;2
+41;Cliente 41;Traje de bano para dama;29,99;2023-11-10;Efectivo;1
+42;Cliente 42;Zapatos de vestir para caballero;59,99;2023-11-11;Efectivo;4
+43;Cliente 43;Blusa sin mangas para dama;24,99;2023-11-12;Efectivo;2
+44;Cliente 44;Abrigo de lana para caballero;89,99;2023-11-13;Efectivo;3
+45;Cliente 45;Vestido de verano para dama;59,99;2023-11-14;Efectivo;4
+46;Cliente 46;Pantalones de mezclilla para dama;44,99;2023-11-15;Efectivo;5
+47;Cliente 47;Traje regional para caballero;79,99;2023-11-16;Efectivo;6
+48;Cliente 48;Vestido de fiesta para dama;64,99;2023-11-17;Efectivo;7
+49;Cliente 49;Blusa de seda para dama;54,99;2023-11-18;Efectivo;3
+50;Cliente 50;Chaqueta deportiva para caballero;49,99;2023-11-19;Efectivo;1
+51;Cliente 51;Camisa Hombre;49,99;2024-01-05;Efectivo;3
+52;Cliente 52;Pantalon Hombre;39,99;2024-02-10;Efectivo;1
+53;Cliente 53;Vestido Mujer;59,99;2024-03-15;Efectivo;2
+54;Cliente 54;Blusa Mujer;29,99;2024-04-20;Efectivo;4
+55;Cliente 55;Zapatos Hombre;69,99;2024-05-25;Efectivo;2
+56;Cliente 56;Chaqueta Hombre;54,99;2024-06-30;Efectivo;2
+57;Cliente 57;Falda Mujer;44,99;2024-07-05;Efectivo;3
+58;Cliente 58;Camisa Hombre;49,99;2024-08-10;Efectivo;1
+59;Cliente 59;Pantalon Hombre;39,99;2024-09-15;Efectivo;2
+60;Cliente 60;Vestido Mujer;59,99;2024-10-20;Efectivo;1
+61;Cliente 61;Blusa Mujer;29,99;2024-11-25;Efectivo;3
+62;Cliente 62;Zapatos Hombre;69,99;2024-12-30;Efectivo;2
+63;Cliente 63;Chaqueta Hombre;54,99;2024-01-05;Efectivo;2
+64;Cliente 64;Falda Mujer;44,99;2024-02-10;Efectivo;3
+65;Cliente 65;Camisa Hombre;49,99;2024-03-15;Efectivo;1
+66;Cliente 66;Pantalon Hombre;39,99;2024-04-20;Efectivo;2
+67;Cliente 67;Vestido Mujer;59,99;2024-05-25;Efectivo;1
+68;Cliente 68;Blusa Mujer;29,99;2024-06-30;Efectivo;4
+69;Cliente 69;Zapatos Hombre;69,99;2024-07-05;Efectivo;2
+70;Cliente 70;Chaqueta Hombre;54,99;2024-08-10;Efectivo;2
+71;Cliente 71;Falda Mujer;44,99;2024-09-15;Efectivo;3
+72;Cliente 72;Camisa Hombre;49,99;2024-10-20;Efectivo;1
+73;Cliente 73;Pantalon Hombre;39,99;2024-11-25;Efectivo;2
+74;Cliente 74;Vestido Mujer;59,99;2024-12-30;Efectivo;1
+75;Cliente 75;Blusa Mujer;29,99;2024-01-05;Efectivo;3
+76;Cliente 76;Zapatos Hombre;69,99;2024-02-10;Efectivo;2
+77;Cliente 77;Chaqueta Hombre;54,99;2024-03-15;Efectivo;2
+78;Cliente 78;Falda Mujer;44,99;2024-04-20;Efectivo;3
+79;Cliente 79;Camisa Hombre;49,99;2024-05-25;Efectivo;1
+80;Cliente 80;Pantalon Hombre;39,99;2024-06-30;Efectivo;2
+81;Cliente 81;Vestido Mujer;59,99;2024-07-05;Efectivo;1
+82;Cliente 82;Blusa Mujer;29,99;2024-08-10;Efectivo;4
+83;Cliente 83;Zapatos Hombre;69,99;2024-09-15;Efectivo;2
+84;Cliente 84;Chaqueta Hombre;54,99;2024-10-20;Efectivo;2
+85;Cliente 85;Falda Mujer;44,99;2024-11-25;Efectivo;3
+86;Cliente 86;Camisa Hombre;49,99;2024-12-30;Efectivo;1
+87;Cliente 87;Pantalon Hombre;39,99;2024-01-05;Efectivo;2
+88;Cliente 88;Vestido Mujer;59,99;2024-02-10;Efectivo;1
+89;Cliente 89;Blusa Mujer;29,99;2024-03-15;Efectivo;3
+90;Cliente 90;Zapatos Hombre;69,99;2024-04-20;Efectivo;2
+91;Cliente 91;Chaqueta Hombre;54,99;2024-05-25;Efectivo;2
+92;Cliente 92;Falda Mujer;44,99;2024-06-30;Efectivo;3
+93;Cliente 93;Camisa Hombre;49,99;2024-07-05;Efectivo;1
+94;Cliente 94;Pantalon Hombre;39,99;2024-08-10;Efectivo;2
+95;Cliente 95;Vestido Mujer;59,99;2024-09-15;Efectivo;1
+96;Cliente 96;Blusa Mujer;29,99;2024-10-20;Efectivo;4
+97;Cliente 97;Zapatos Hombre;69,99;2024-11-25;Efectivo;2
+98;Cliente 98;Chaqueta Hombre;54,99;2024-12-30;Efectivo;2
+99;Cliente 99;Falda Mujer;44,99;2024-01-05;Efectivo;3
+100;Cliente 100;Camisa Hombre;49,99;2024-02-10;Efectivo;1
